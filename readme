@@ -1,0 +1,8 @@
+Simply place the crimson theme folder in your themes folder located at users/share/themes, opened as root.
+There is a new crimson menu icon located in the crimson folder that you just installed that you may choose to use.
+You shoud now be able to select Crimson in your Themes setup.
+You can also use the Crimson Windows borders and Crimson Controls if you like.
+Right click on the menu icon to configure your new menu icon.
+Use /usr/share/themes/Crimson/cinnamon/menu.svg as your path to the new menu icon. 
+Optionally, install and enjoy the new crimson wallpapers included.
+Cinnamon 18 does away with the lame pointer at the bottom of the main menu and allows menus to attach to the panel, adds left and right side panels, and has improved, more efficient running coding.
